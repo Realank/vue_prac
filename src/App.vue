@@ -14,7 +14,7 @@ export default {
     HelloWorld
   },
   data () {
-    return { message: 'adfsdfsdf' }
+    return { message: 'welcome' }
   }
 }
 </script>
